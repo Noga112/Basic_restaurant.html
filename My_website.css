@@ -1,0 +1,157 @@
+
+* {
+    background-color: rgb(231, 118, 137);
+    font-family: "Brush Script MT", "Brush Script Std", cursive;
+}
+
+header > h1 {
+    text-align: center;
+    background-color: rgb(228, 75, 100);
+    position: fixed;
+    width: 100%;
+    margin: 0;
+    padding: 5px;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+}
+
+#doggie {
+    border-radius: 50%;
+    scroll-margin-top: 60px;
+    border: 1px solid rgb(231, 118, 137);
+    width: 30%;
+    height: 30%;
+    display:block;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav > p {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    padding: 0;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+#About > h2 {
+    background-color: rgb(231, 118, 137);
+    position: sticky;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    top: 49px;
+    left: 0px;
+    z-index: 0;
+}
+
+section > p {
+    background-color:rgb(229, 202, 168);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 70%;
+    height: 70%;
+    border: 1px solid rgb(116, 52, 63);
+    border-radius: 5px;
+    z-index: 1;
+}
+
+#Work > h2{
+    background-color: rgb(231, 118, 137);
+    position: sticky;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    top: 49px;
+    left: 0px;
+    z-index: 0;
+}
+
+#Skills > h2 {
+    background-color: rgb(231, 118, 137);
+    position: sticky;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    top: 49px;
+    left: 0px;
+    z-index: 0;
+}
+
+#Skills > ul {
+    list-style-type: none;
+    background-color:rgb(229, 202, 168);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 70%;
+    height: 70%;
+    border: 1px solid rgb(116, 52, 63);
+    border-radius: 5px;
+    z-index: 1;
+}
+
+ul > li {
+    background-color:rgb(229, 202, 168);
+    text-decoration-style:  ;
+    z-index: 2;
+    font-weight: bold;
+}
+
+ul > p {
+    background-color:rgb(229, 202, 168);
+    z-index: 2;
+}
+
+#Contact > h2{
+    background-color: rgb(231, 118, 137);
+    position: sticky;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    top: 49px;
+    left: 0px;
+    z-index: 0;
+}
+
+section {
+    scroll-margin-top: 60px;
+    padding-top: 20px;
+}
+
+#submit_gmail , #news_letter {
+    background-color: rgb(244, 184, 194);
+}
+
+#WhatsApp {
+    width: 5%;
+    background-color: white;
+    border-radius: 100%;
+    top: 85%;
+    left: 90%;
+    position: fixed;
+    z-index: 3;
+}
+
+#up_button {
+    width: 1%;
+    border-radius: 100%;
+    left: 97%;
+    top: 10%;
+    position: fixed;
+    z-index: 1;
+}
